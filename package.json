@@ -1,7 +1,7 @@
 {
   "name": "counter",
   "version": "1.0.0",
-  "description": "Sample counter web application",
+  "description": "Sample counter web application for Docker lessons",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
