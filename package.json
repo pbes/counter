@@ -1,0 +1,15 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "Sample counter web application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Peter Bessenyei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
